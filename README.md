@@ -6,7 +6,7 @@
 > 
 > 利欲驱人万火牛，江湖浪迹一沙鸥。——《秋思》
 
-* [在线阅读](https://miz.apachecn.org)
+* [在线阅读](https://miz.flygon.net)
 ## 下载
 
 ### Docker
